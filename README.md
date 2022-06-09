@@ -1,6 +1,8 @@
 # solas-summer-school-co2flux-practical
 Practical run as part of the 2022 virtual SOLAS summer school to calculate and analyse CO2 fluxes from spatial and temporal datasets
 
+Practical created by: Tobias Steinhoff (NORCE, Norway (ICOS-OTC)), Ute Schuster (Univeristy of Exeter) and Marcel du Plessis (University of Gothenburg)
+
 **SOLAS summer school, air-sea CO2 flux practical**
 
 During this practical you will (a) learn about the marine carbon cycle with specific emphasis on the atmosphere-ocean exchange of CO2 and its impacts, and then (b) work with observational data in six break-out groups. Three groups will investigate spatial variability by working with observations along a south-to-north Atlantic research vessel transect, and three groups will investigate the temporal variability by working with observations from a fixed point mooring in the North Atlantic Ocean covering nearly a whole annual cycle. 
