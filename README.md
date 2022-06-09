@@ -37,7 +37,7 @@ We prepared a dataset from the German research vessel R/V Polarstern when it was
 
 The data set is available as .csv or .txt file:
 
-**Questions: **
+**Questions:**
 
 ### Load the dataset and plot the oceans variables against latitude
 
@@ -68,7 +68,7 @@ We downloaded data from a mooring near Bermuda from SOCAT (Expocode:316420130417
 
 The data set is available as .csv or .txt file.
 
-**Questions: **
+**Questions:**
 
 ### Load the dataset and plot the oceans variables against latitude
 
