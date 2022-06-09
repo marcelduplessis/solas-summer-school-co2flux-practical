@@ -1,6 +1,6 @@
 # solas-summer-school-co2flux-practical
 
-Practical created by: Tobias Steinhoff (NORCE, Norway (ICOS-OTC)), Ute Schuster (Univeristy of Exeter) and Marcel du Plessis (University of Gothenburg)
+Practical created by: Tobias Steinhoff (NORCE, Norway (ICOS-OTC)), Ute Schuster (Univeristy of Exeter) and Marcel du Plessis (University of Gothenburg) for the *Data handling - pCO2 and carbon flux computation* practical at the SOLAS Virtual Summer School (2022), Jun 13 - 17, 2022
 
 
 ## SOLAS summer school, air-sea CO2 flux practical
