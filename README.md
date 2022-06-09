@@ -21,7 +21,7 @@ We expect you to work together as a group, which means that not everyone has to 
 
 ## Spatial variability
 
-** Dataset:**
+**Dataset:**
 
 We prepared a dataset from the German research vessel R/V Polarstern when it was transecting from Punta Arenas/Chile to Bremerhaven/Germany. All necessary information can be found in the presentation or at the end of this handout. The dataset contains data for the following surface ocean parameters:
 
@@ -37,7 +37,7 @@ We prepared a dataset from the German research vessel R/V Polarstern when it was
 
 The data set is available as .csv or .txt file:
 
-** Questions: **
+**Questions: **
 
 ### Load the dataset and plot the oceans variables against latitude
 
@@ -54,7 +54,7 @@ The data set is available as .csv or .txt file:
 
 ## Temporal variability
 
-** Dataset:**
+**Dataset:**
 
 We downloaded data from a mooring near Bermuda from SOCAT (Expocode:316420130417, Sutton et al., 2013) showing an annual cycle of surface measurements of CO2. All necessary information can be found in the presentation or at the end of this handout. The dataset contains data for the following surface ocean parameters:
 
@@ -68,7 +68,7 @@ We downloaded data from a mooring near Bermuda from SOCAT (Expocode:316420130417
 
 The data set is available as .csv or .txt file.
 
-** Questions: **
+**Questions: **
 
 ### Load the dataset and plot the oceans variables against latitude
 
